@@ -1,0 +1,22 @@
+Vídeos necessários para o site
+==============================
+
+Coloque os arquivos .mp4 nas pastas abaixo. O index.html já está configurado para usar /assets/videos/...
+
+pages/home/v1/
+  - channels-website.mp4
+  - channels-shopbot.mp4
+  - optimize-01.mp4
+  - optimize-02.mp4
+  - optimize-03.mp4
+  - optimize-04.mp4
+  - optimize-05.mp4
+  - optimize-06.mp4
+  - cta-video.mp4
+
+pages/whatsapp-suite/
+  - banner-video.mp4
+
+Caminho completo (exemplo):
+  assets\videos\pages\home\v1\channels-website.mp4
+  assets\videos\pages\whatsapp-suite\banner-video.mp4
