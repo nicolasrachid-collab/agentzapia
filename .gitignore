@@ -11,3 +11,7 @@ Thumbs.db
 # Logs
 *.log
 npm-debug.log*
+
+# Env (nunca commitar chaves)
+.env
+.env.local
